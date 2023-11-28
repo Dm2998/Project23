@@ -4,7 +4,7 @@ Data_Analysis_Project23.
 
 
 <br>
-#Data integration for the for the cases and deaths and Countries and Territories
+Data integration for the for the cases and deaths and Countries and Territories
 <br>
 
 
@@ -18,3 +18,21 @@ By arranging this data in descending order based on COVID-19 impact in the year 
 
 
 <br>
+
+<br>
+
+Integrating data for the top countries with the highest mortality rates and cases distribution in Europe.
+
+<br>
+"
+Utilizing the dataset containing COVID cases and deaths for the year 2020, we extracted the total cases for each European country, focusing on relevant data points. By filtering the dataset based on European countries, we obtained a comprehensive overview of the total cases and deaths for plotting purposes. Additionally, we generated a graph comparing the top three countries in Europe, integrating information on case trends over time by employing distinct line styles for each country and territory.
+
+Further enhancing our analysis, we sorted the same dataset to calculate cases and mortality rates for the ten European countries with the highest impact. The resulting visualization presented a descending order of COVID-19 impact for each of these ten countries. This strategic sorting facilitated a clear understanding of the relative severity of the pandemic across Europe.
+
+To improve the readability and aesthetic appeal of our visualizations, we employed the Seaborn library, harnessing its capabilities for creating compelling and informative graphs. Specifically, we utilized Seaborn to gain insights into the distribution of deaths in 2020 by country, offering a more nuanced and visually accessible perspective on the toll of the pandemic across European nations. This meticulous approach not only provides valuable insights into the varied impacts of COVID-19."
+
+<br>
+
+
+
+
