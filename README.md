@@ -4,7 +4,8 @@ Data_Analysis_Project23.
 
 
 <br>
-Data integration for the for the cases and deaths and Countries and Territories
+Data integration for the for the cases and deaths and Countries and Territories.
+
 <br>
 
 
