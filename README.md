@@ -34,7 +34,7 @@ To improve the readability and aesthetic appeal of our visualizations, we employ
 
 <br>
 
-<br>
+
 In integrating the dataset capturing the GDP evolution across Europe from 2018 to 2020.
 
 <br>
@@ -46,7 +46,6 @@ By meticulously structuring the data, including essential columns such as Countr
 The incorporation of GeoPandas in our project was instrumental in creating insightful geo-maps that not only depicted the GDP trends but also illuminated the intricate interplay between economic shifts and the COVID-19 landscape in each country. This comprehensive approach ensures a comprehensive understanding of the multifaceted evolution of GDP across Europe during the specified timeframe."
 
 
-<br>
 
 
 <br>
