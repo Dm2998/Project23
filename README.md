@@ -2,9 +2,12 @@
 
 Data_Analysis_Project23.
 
+
+<br>
+#Data integration for the for the cases and deaths and Countries and Territories
 <br>
 
-Data integration for the for the cases and deaths and Countries and Territories
+
 "
 In our data analysis project, we leveraged multiple datasets to seamlessly integrate diverse sources of information. Initially, we meticulously filtered the COVID cases and deaths datasets, honing in on the data relevant to the year 2020. 
 This comprehensive filtration process allowed us to construct a refined dataframe encompassing crucial metrics such as cases, deaths, and mortality rates for each European country during the pivotal year of the COVID-19 pandemic. 
