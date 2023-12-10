@@ -41,7 +41,7 @@ In integrating the dataset capturing the GDP evolution across Europe from 2018 t
 
 "In crafting a graphical representation aimed at discerning the GDP evolution between 2018 and 2020. Our approach involved the integration of diverse datasets within the context of COVID-19 dynamics. To achieve a holistic visualization, we seamlessly incorporated datasets pertinent to COVID-19 in 2020, leveraging GeoPandas along with distinct files containing GDP information and latitude-longitude coordinates for European countries. 
 
-By meticulously structuring the data, including essential columns such as Country_code, latitude, longitude, country, year, and time period, we facilitated nuanced visualizations. This integration extended to datasets like page percentage, page total, and world countries, enabling us to map GDP across all European countries and dynamically visualize the GDP evolution between 2018 and 2020. 
+By meticulously structuring the data, including essential columns such as Country_code, latitude, longitude, country, year, and time period. we facilitated nuanced visualizations. This integration extended to datasets like page percentage, page total, and world countries, enabling us to map GDP across all European countries and dynamically visualize the GDP evolution between 2018 and 2020. 
 
 The incorporation of GeoPandas in our project was instrumental in creating insightful geo-maps that not only depicted the GDP trends but also illuminated the intricate interplay between economic shifts and the COVID-19 landscape in each country. This comprehensive approach ensures a comprehensive understanding of the multifaceted evolution of GDP across Europe during the specified timeframe."
 
